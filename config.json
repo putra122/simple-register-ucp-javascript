@@ -1,0 +1,13 @@
+{
+  "token": "YOUR_TOKEN",
+  "guildId": "YOUR_GUILD_ID",
+  "verifiedRoleId": "YOUR_VERIFIED_ROLE_ID",
+  "bannerImage": "YOUR_BANNER_IMAGE_URL",
+  "authorizedUserId": "YOUR_AUTHORIZED_USER_ID",
+  "database": {
+    "host": "YOUR_DB_HOST",
+    "user": "YOUR_DB_USER",
+    "password": "YOUR_DB_PASSWORD",
+    "database": "YOUR_DB_NAME"
+  }
+}
